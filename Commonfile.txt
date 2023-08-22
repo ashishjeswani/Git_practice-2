@@ -1,1 +1,2 @@
-Contr1 branch created and edited this common
+Contr1 branch created and edited this common file
+Contr2 branch created and he also edited this common file
